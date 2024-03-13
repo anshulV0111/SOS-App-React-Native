@@ -1,6 +1,9 @@
-This is a SOS App developed with [**React Native**](https://reactnative.dev)
+This is a SOS App developed with [**React Native**](https://reactnative.dev).
+
 -Send SOS msgs to two selected contacts from phone contacts with current location i.e google maps direction link
+
 -Also Provides edit msg option
+
 -The app also works in foreground where you can shake the phone to trigger SOS msg's with loction.
 
 <img src='Images/Add-Contacts.jpg' width='250' height='600' />
