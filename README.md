@@ -3,17 +3,12 @@ This is a SOS App developed with [**React Native**](https://reactnative.dev)
 -Also Provides edit msg option
 -The app also works in foreground where you can shake the phone to trigger SOS msg's with loction.
 
-![](Images/Add-Contacts.jpg)
-![](Images/Select-Contacts.jpg)
-![](Images/Added-Contacts.jpg)
-![](Images/Home.jpg)
-![](Images/SMS.jpg)
-![](Images/Google-Map-Link.jpg)
-
-
-
-
-
+<img src='Images/Add-Contacts.jpg' width='250' height='600' />
+<img src='Images/Select-Contacts.jpg' width='250' height='600'/>
+<img src='Images/Added-Contacts.jpg' width='250' height='600'/>
+<img src='Images/Home.jpg' width='250' height='600'/>
+<img src='Images/SMS.jpg' width='250' height='600'/>
+<img src='Images/Google-Map-Link.jpg' width='250' height='600'/>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
